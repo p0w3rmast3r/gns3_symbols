@@ -5,9 +5,9 @@
 ### /svg/
  * Symbole im SVG Format
     * Dateien sind nach folgendem Schema benannt:
-        * **Name bzw. Beschreibung** -> z.B. *MySQL*_120x120.svg
-        * **Größe in Pixel (px)** -> MySQL_*120x120*.svg
-        * **Dateiendung** -> z.B. MySQL_120x120.*svg*
+        * **Name bzw. Beschreibung** -> z.B. **MySQL**_120x120.svg
+        * **Größe in Pixel (px)** -> MySQL_**120x120**.svg
+        * **Dateiendung** -> z.B. MySQL_120x120.**svg**
 
 
 
